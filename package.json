@@ -1,6 +1,6 @@
 {
   "name": "jsonprovider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JsonProvider allows you to manage a JSON file simply.",
   "main": "index.js",
   "scripts": {
