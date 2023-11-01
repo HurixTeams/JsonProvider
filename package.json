@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/HurixTeams/JsonProvider/issues"
   },
-  "homepage": "https://github.com/HurixTeams/JsonProvider#readme"
+  "homepage": "https://github.com/HurixTeams/JsonProvider#readme",
+  "keywords": ["json"]
 }
