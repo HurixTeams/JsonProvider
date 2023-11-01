@@ -69,4 +69,4 @@ config.save();
 
 Install with npm
 ```text
-npm install configprovider
+npm install jsonprovider
