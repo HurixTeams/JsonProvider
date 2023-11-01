@@ -13,9 +13,10 @@ function createFileIfNotExists(filePath, defaultContent = '{}') {
 class Config {
 
     constructor(filePath) {
-        createFileIfNotExists(filePath, "{}");
+        //createFileIfNotExists(filePath);
         this.filePath = filePath;
         this.data = {};
+        this.load();
     }
 
     set(key, value) {
