@@ -1,0 +1,19 @@
+{
+  "name": "jsonprovider",
+  "version": "1.0.0",
+  "description": "JsonProvider allows you to manage a JSON file simply.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HurixTeams/ConfigProvider.git"
+  },
+  "author": "HurixTeams",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HurixTeams/ConfigProvider/issues"
+  },
+  "homepage": "https://github.com/HurixTeams/ConfigProvider#readme"
+}
